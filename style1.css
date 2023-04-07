@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #fff;
+}
+
+.form-control {
+    background-color: #fff;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+}
+
+.header p {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.content p {
+    margin-left: 16px;
+    margin-bottom: 0;
+}
+
+.button {
+    justify-content: center;
+    align-items: center;
+    padding: 15px 16px;
+    margin: 26px 13px;
+    gap: 10px;
+    cursor: pointer;
+    color: #212121;
+    background: #FFF000;
+    backdrop-filter: blur(40px);
+    border-radius: 13px;
+}
+
+.button a {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footer {
+    margin: 0 15px 0 15px;
+}
